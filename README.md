@@ -1,6 +1,6 @@
 
 run the mysql server (wather workbach or xammp)
-create a database named 
+create a database named employee_management_system
 
 install JAVA(JDK) latest version
 install SpringToolSuit
